@@ -61,15 +61,14 @@
 
 <img align="left" alt="fachinforamtiker's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fachinformatiker&show_icons=true&hide_border=true" />
 
-<br />
 
----
-
-### :zap: Recent GitHub Activity
+<details>
+  <summary>:zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+</details>
 
 [website]: https://fachinformatiker.app
 [twitter]: https://twitter.com/psvisualdesign
