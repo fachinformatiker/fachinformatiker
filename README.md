@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick - aka [psvisualdesign][website] 👋
 
-[![Website](https://img.shields.io/website?label=cfachinformatiker.app&style=for-the-badge&url=https%3A%2F%2Ffachinformatiker.app)](https://fachinformatiker.app)
+[![Website](https://img.shields.io/website?label=fachinformatiker.app&style=for-the-badge&url=https%3A%2F%2Ffachinformatiker.app)](https://fachinformatiker.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/psvisualdesign?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffachinformatiker&screen_name=psvisualdesign)
 
 ## I'm a Student, Photographer, Developer, and Adventurer!!
@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://fachinformatiker.app)
 
 ---
 
@@ -66,7 +66,7 @@
 
 </details>
 
-[website]: https://fachiinformatiker.app
+[website]: https://fachinformatiker.app
 [twitter]: https://twitter.com/psvisualdesign
 [youtube]: https://youtube.com/psvisualdesign
 [instagram]: https://instagram.com/psvisualdesign
