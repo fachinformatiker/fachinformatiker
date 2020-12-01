@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://fachinformatiker.app/?p=1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fachinformatiker.app)
