@@ -50,11 +50,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [bücher, dvds und blurays](https://fachinformatiker.app/b%C3%BCcher-dvds-und-blurays)
 - [About](https://fachinformatiker.app/about)
 - [How To Set Up an OpenVPN Server on Debian 9](https://fachinformatiker.app/how-to-set-up-an-openvpn-server-on-debian-9)
 - [How to Install Node.js and npm](https://fachinformatiker.app/how-to-install-node-js-and-npm)
 - [How to Install Pip](https://fachinformatiker.app/how-to-install-pip)
+- [How to Install GCC Compiler](https://fachinformatiker.app/how-to-install-gcc-compiler)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fachinformatiker.app)
