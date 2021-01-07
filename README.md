@@ -51,10 +51,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [About](https://fachinformatiker.app/about)
-- [How To Set Up an OpenVPN Server on Debian 9](https://fachinformatiker.app/how-to-set-up-an-openvpn-server-on-debian-9)
-- [How to Install Node.js and npm](https://fachinformatiker.app/how-to-install-node-js-and-npm)
-- [How to Install Pip](https://fachinformatiker.app/how-to-install-pip)
-- [How to Install GCC Compiler](https://fachinformatiker.app/how-to-install-gcc-compiler)
+- [whosthere](https://fachinformatiker.app/whosthere)
+- [Hackathon Bremen](https://fachinformatiker.app/hackathon-bremen)
+- [Passwörter](https://fachinformatiker.app/passwoerter)
+- [Java Kurs kostenlos!](https://fachinformatiker.app/java-kurs-kostenlos)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fachinformatiker.app)
