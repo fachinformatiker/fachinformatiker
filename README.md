@@ -51,10 +51,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [About](https://fachinformatiker.app/about)
-- [whosthere](https://fachinformatiker.app/whosthere)
-- [Hackathon Bremen](https://fachinformatiker.app/hackathon-bremen)
-- [Passwörter](https://fachinformatiker.app/passwoerter)
-- [Java Kurs kostenlos!](https://fachinformatiker.app/java-kurs-kostenlos)
+- [A Guide to Java Sockets](https://fachinformatiker.app/a-guide-to-java-sockets)
+- [How to Set Up SSH Keys on Linux](https://fachinformatiker.app/how-to-set-up-ssh-keys-on-linux)
+- [BSI – CERT-Bund Reports: HOWTOs: Offene DNS-Resolver](https://fachinformatiker.app/bsi-cert-bund-reports-howtos-offene-dns-resolver)
+- [Intrusion detection with git – the basics](https://fachinformatiker.app/intrusion-detection-with-git-the-basics)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://fachinformatiker.app)
