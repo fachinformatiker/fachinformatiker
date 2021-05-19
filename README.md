@@ -47,20 +47,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [About](https://fachinformatiker.app/about)
-- [A Guide to Java Sockets](https://fachinformatiker.app/a-guide-to-java-sockets)
-- [How to Set Up SSH Keys on Linux](https://fachinformatiker.app/how-to-set-up-ssh-keys-on-linux)
-- [BSI – CERT-Bund Reports: HOWTOs: Offene DNS-Resolver](https://fachinformatiker.app/bsi-cert-bund-reports-howtos-offene-dns-resolver)
-- [Intrusion detection with git – the basics](https://fachinformatiker.app/intrusion-detection-with-git-the-basics)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://fachinformatiker.app)
-
----
-
 ### :zap: GitHub Stats
 
 <img align="left" alt="fachinforamtiker's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fachinformatiker&show_icons=true&hide_border=true" />
