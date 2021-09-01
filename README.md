@@ -36,11 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CHASE ATLANTIC PRESENTS: PHASES LIVESTREAM](https://www.youtube.com/watch?v=KWROmsUP9WI)
 - [SanSisk Extreme Portable SSD 1TB | Tech-Review | psvisualdesign](https://www.youtube.com/watch?v=BWYNeeiNFlQ)
 - [Honest Trailer | Far Cry 5 | psvisualdesign](https://www.youtube.com/watch?v=jshJwgbjVzI)
 - [Fotografie mit Stahlwolle - steelwool photography | Foto-Tutorials | psvisualdesign](https://www.youtube.com/watch?v=tSUIffGeZ60)
 - [Canon EOS M10 | Unboxing | MrPoPoPolski](https://www.youtube.com/watch?v=sKHn3pZideg)
+- [HALLO PYTHON | Folge 8 | Raspberry Pi - der elektronische Himbeerkuchen](https://www.youtube.com/watch?v=cM8wVxOzUps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/psvisualdesign)
