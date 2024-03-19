@@ -27,6 +27,7 @@
 [<img align="left" alt="fachinformatiker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 <a href="https://www.buymeacoffee.com/fachinformatiker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -34,11 +35,6 @@
 <br />
 
 ---
-
-### :zap: GitHub Stats
-
-<img align="left" alt="fachinforamtiker's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fachinformatiker&show_icons=true&hide_border=true" />
-
 
 
 [website]: https://psvisual.de
