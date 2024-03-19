@@ -1,15 +1,17 @@
 ### Hi there, I'm Patrick - aka [psvisualdesign][website] 👋
 
-[![Website](https://img.shields.io/website?label=fachinformatiker.app&style=for-the-badge&url=https%3A%2F%2Ffachinformatiker.app)](https://fachinformatiker.app)
+[![Website](https://img.shields.io/website?label=psvisual.de&style=for-the-badge&url=https%3A%2F%2Fpsvisual.de)](https://psvisual.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/psvisualdesign?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffachinformatiker&screen_name=psvisualdesign)
+
+
 
 ## I'm a Student, Photographer, Developer, and Adventurer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to take analog pictures
-- 📫 How to reach me: hello@fachinformatiker.app
+- 📫 How to reach me: github@psvisual.de
 
 <!---
 ### Spotify Playing 🎧
@@ -19,31 +21,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fachinformatiker.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="psvisual.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fachinformatiker | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="fachinformatiker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fachinformatiker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-
+<a href="https://www.buymeacoffee.com/fachinformatiker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [SanSisk Extreme Portable SSD 1TB | Tech-Review | psvisualdesign](https://www.youtube.com/watch?v=BWYNeeiNFlQ)
-- [Honest Trailer | Far Cry 5 | psvisualdesign](https://www.youtube.com/watch?v=jshJwgbjVzI)
-- [Fotografie mit Stahlwolle - steelwool photography | Foto-Tutorials | psvisualdesign](https://www.youtube.com/watch?v=tSUIffGeZ60)
-- [HALLO PYTHON | Folge 8 | Raspberry Pi - der elektronische Himbeerkuchen](https://www.youtube.com/watch?v=cM8wVxOzUps)
-- [WINSCP | Folge 7 | Raspberry Pi - der elektronische Himbeerkuchen](https://www.youtube.com/watch?v=SxYIZdMvzXI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/psvisualdesign)
 
 ---
 
@@ -53,7 +41,7 @@
 
 
 
-[website]: https://fachinformatiker.app
+[website]: https://psvisual.de
 [twitter]: https://twitter.com/psvisualdesign
 [youtube]: https://youtube.com/psvisualdesign
 [instagram]: https://instagram.com/psvisualdesign
